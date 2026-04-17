@@ -6,6 +6,7 @@ runConfig:
   maxInstances: 10
   minInstances: 0
   concurrency: 80
+  region: asia-east1
 env:
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
     value: "AIzaSyACaAHYZtenp6AGjO9LkQGNzDmXw7u2xwA"
